@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 고런거 필요 없다 ㅎㅎ
 <!--
 **Kang-Junhui/Kang-Junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
